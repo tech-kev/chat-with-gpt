@@ -6,5 +6,5 @@ services:
             - '/srv/mergerfs/maindrive/AppData/chat-with-gpt/data:/app/data'
         ports:
             - '8015:3000'
-        image: techkev/chat-with-gpt:1.5
+        image: techkev/chat-with-gpt
         restart: always
