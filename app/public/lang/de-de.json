@@ -1,0 +1,199 @@
+{
+    "+G35mR": {
+      "defaultMessage": "Seitenleiste öffnen"
+    },
+    "+LMWDJ": {
+      "defaultMessage": "Chat-Verlauf",
+      "description": "Überschrift für den Chat-Verlauf-Bildschirm"
+    },
+    "/xTTti": {
+      "defaultMessage": "Benutzereinstellungen",
+      "description": "Menüpunkt, der den Benutzereinstellungen-Bildschirm öffnet"
+    },
+    "0vL5u1": {
+      "defaultMessage": "Konto erstellen"
+    },
+    "1j61Mn": {
+      "defaultMessage": "Oder ein Konto erstellen",
+      "description": "Beschriftung für einen Button auf der Anmeldeseite, der es dem Benutzer ermöglicht, stattdessen ein Konto zu erstellen"
+    },
+    "1r/ryM": {
+      "defaultMessage": "Abbrechen",
+      "description": "Beschriftung für den Button, der während der Generierung einer Antwort durch die KI geklickt werden kann, um die Generierung abzubrechen"
+    },
+    "2GFjIN": {
+      "defaultMessage": "Geben Sie Ihr Passwort ein"
+    },
+    "3T9nRn": {
+      "defaultMessage": "Ihr API-Schlüssel wird nur auf diesem Gerät gespeichert und niemals an jemanden außer OpenAI übertragen."
+    },
+    "5sg7KC": {
+      "defaultMessage": "Passwort"
+    },
+    "6LJByb": {
+      "defaultMessage": "Audio wird geladen...",
+      "description": "Nachricht, die darauf hinweist, dass die Text-zu-Sprache-Audio puffert"
+    },
+    "74eGxP": {
+      "defaultMessage": "Neuer Chat",
+      "description": "Beschriftung für den Button, der verwendet wird, um eine neue Chat-Sitzung zu starten"
+    },
+    "8CYNFt": {
+      "defaultMessage": "Noch keine Chats.",
+      "description": "Nachricht, die auf dem Chat-Verlauf-Bildschirm für neue Benutzer angezeigt wird, die ihre erste Chat-Sitzung noch nicht gestartet haben"
+    },
+    "8HJxXG": {
+      "defaultMessage": "Registrieren"
+    },
+    "Bi0lS9": {
+      "defaultMessage": "Teilen",
+      "description": "Beschriftung für den Button, der verwendet wird, um eine öffentliche Freigabe-URL für ein Chat-Protokoll zu erstellen"
+    },
+    "Bm3EKs": {
+      "defaultMessage": "Änderungen speichern",
+      "description": "Beschriftung für einen Button, der angezeigt wird, wenn der Benutzer den Text einer seiner Nachrichten bearbeitet, um die Änderungen zu speichern"
+    },
+    "CIe3Dt": {
+      "defaultMessage": "Hinweis: Dieses Modell funktioniert nur, wenn Ihrem OpenAI-Konto Zugriff gewährt wurde. <a>Hier Zugriff anfordern.</a>"
+    },
+    "FEzBCd": {
+      "defaultMessage": "Ohne Titel",
+      "description": "Standardtitel für unbenannte Chat-Sitzungen"
+    },
+    "Fko0yT": {
+      "defaultMessage": "Stop",
+      "description": "Beschriftung für den Button, der die Wiedergabe der Text-zu-Sprache beendet"
+    },
+    "HyS0qp": {
+      "defaultMessage": "Seitenleiste schließen"
+    },
+    "KKa5Br": {
+      "defaultMessage": "Geben Sie ChatGPT eine realistische menschliche Stimme, indem Sie Ihr ElevenLabs-Konto verbinden (Vorschau der verfügbaren Stimmen unten). <a>Hier klicken, um sich anzumelden.</a>"
+    },
+    "KbUcBc": {
+      "defaultMessage": "Ihr ElevenLabs API-Schlüssel"
+    },
+    "L5s+z7": {
+      "defaultMessage": "Die Verwendung des OpenAI-API-Schlüssels wird separat von Ihrem ChatGPT-Abonnement nach dem Pay-as-you-go-Prinzip abgerechnet."
+    },
+    "MI5gZ+": {
+      "defaultMessage": "SVG herunterladen"
+    },
+    "N2NGTf": {
+      "defaultMessage": "Mit GPT chatten",
+      "description": "App-Name"
+    },
+    "NgCT/u": {
+      "defaultMessage": "Geben Sie Ihre E-Mail-Adresse ein"
+    },
+    "O83lC6": {
+      "defaultMessage": "Geben Sie hier eine Nachricht ein..."
+    },
+    "Q97T+z": {
+      "defaultMessage": "Fügen Sie hier Ihren API-Schlüssel ein"
+    },
+    "S9BFby": {
+      "defaultMessage": "Abspielen",
+      "description": "Beschriftung für den Button, der die Wiedergabe der Text-zu-Sprache startet"
+    },
+    "SQJto2": {
+      "defaultMessage": "Anmelden"
+    },
+    "T8gKkC": {
+      "defaultMessage": "Diesen Chat löschen"
+    },
+    "Tgo3vj": {
+      "defaultMessage": "Bearbeiten",
+      "description": "Beschriftung für den Button, den der Benutzer anklicken kann, um den Text einer seiner Nachrichten zu bearbeiten"
+    },
+    "UbN3HK": {
+      "defaultMessage": "Anmelden <h>um zu synchronisieren</h>",
+      "description": "Beschriftung für die Anmeldeschaltfläche, die darauf hinweist, dass das Ziel der Anmeldung die Synchronisierung Ihrer Daten zwischen Geräten ist. Weniger wichtiger Text innerhalb der <h>-Tags wird auf kleinen Bildschirmen ausgeblendet."
+    },
+    "VL24Xt": {
+      "defaultMessage": "Durchsuchen Sie Ihre Chats"
+    },
+    "Xzm66E": {
+      "defaultMessage": "Verbinden Sie Ihr OpenAI-Konto, um loszulegen"
+    },
+    "Y0tGn6": {
+      "defaultMessage": "Oder melden Sie sich mit einem bestehenden Konto an",
+      "description": "Beschriftung für einen Button auf der Kontoerstellungsseite, der es dem Benutzer ermöglicht, sich stattdessen in sein bestehendes Konto einzuloggen"
+    },
+    "bIacvz": {
+      "defaultMessage": "Mit GPT chatten - Inoffizielle ChatGPT-App",
+      "description": "HTML-Titel-Tag"
+    },
+    "f/hGIY": {
+      "defaultMessage": "Hallo, wie kann ich Ihnen heute helfen?",
+      "description": "Eine freundliche Nachricht, die zu Beginn neuer Chat-Sitzungen angezeigt wird"
+    },
+    "gzJlXS": {
+      "defaultMessage": "Teilen",
+      "description": "Beschriftung für einen Button, der den Text einer Chat-Nachricht mithilfe der Freigabefunktion des Geräts des Benutzers teilt"
+    },
+    "h9+jXQ": {
+      "defaultMessage": "Die System-Aufforderung ist eine unsichtbare Nachricht, die am Anfang des Chats eingefügt wird und dazu verwendet werden kann, ChatGPT Informationen über sich selbst und allgemeine Richtlinien für die Art und Weise zu geben, wie es reagieren sollte. Das Tag <code>'{{ datetime }}'</code> wird automatisch durch das aktuelle Datum und die aktuelle Uhrzeit ersetzt (verwenden Sie dies, um der KI Zugriff auf die Zeit zu geben)."
+    },
+    "hJZwTS": {
+      "defaultMessage": "E-Mail-Adresse"
+    },
+    "iqbKb2": {
+      "defaultMessage": "Speichern und schließen",
+      "description": "Beschriftung für den Button, der den Einstellungs-Bildschirm schließt und dabei etwaige Änderungen speichert"
+    },
+    "jU4MQH": {
+      "defaultMessage": "Diesen Chat umbenennen"
+    },
+    "jtu3jt": {
+      "defaultMessage": "Ihren API-Schlüssel finden Sie, indem Sie auf Ihren Avatar oder Ihre Initialen oben rechts auf der ElevenLabs-Website klicken und dann auf Profil klicken. Ihr API-Schlüssel wird nur auf diesem Gerät gespeichert und niemals an jemanden außer ElevenLabs übertragen."
+    },
+    "ljHOzQ": {
+      "defaultMessage": "Kopiert",
+      "description": "Beschriftung für den Button zum Kopieren in die Zwischenablage nach erfolgreichem Kopieren"
+    },
+    "mL4Q28": {
+      "defaultMessage": "Benutzerdefinierte Voice-ID"
+    },
+    "raQMIg": {
+      "defaultMessage": "Abbrechen",
+      "description": "Beschriftung für einen Button, der angezeigt wird, wenn der Benutzer den Text einer seiner Nachrichten bearbeitet, um Änderungen ohne Speichern abzubrechen"
+    },
+    "role-chatgpt": {
+      "defaultMessage": "ChatGPT",
+      "description": "Beschriftung, die über Nachrichten angezeigt wird, die von der KI geschrieben wurden (im Gegensatz zum Benutzer)"
+    },
+    "role-system": {
+      "defaultMessage": "System",
+      "description": "Beschriftung, die über Nachrichten angezeigt wird, die automatisch vom System in das Gespräch eingefügt wurden (im Gegensatz zum Benutzer oder zur KI)"
+    },
+    "role-user": {
+      "defaultMessage": "Sie",
+      "description": "Beschriftung, die über Nachrichten angezeigt wird, die vom Benutzer geschrieben wurden (im Gegensatz zur KI) in den eigenen Chat-Sitzungen des Benutzers (erste Person)."
+    },
+    "role-user-formal": {
+      "defaultMessage": "Benutzer",
+      "description": "Beschriftung, die über Nachrichten angezeigt wird, die vom Benutzer geschrieben wurden (im Gegensatz zur KI) für öffentlich geteilte Konversationen (dritte Person, formell)."
+    },
+    "ss6kle": {
+      "defaultMessage": "Auf Standard zurücksetzen"
+    },
+    "tZdXp/": {
+      "defaultMessage": "Der Temperaturparameter steuert die Zufälligkeit der Antworten der KI. Niedrigere Werte machen die KI vorhersehbarer, während höhere Werte sie kreativer machen."
+    },
+    "upBSoW": {
+      "defaultMessage": "Kopieren",
+      "description": "Beschriftung für den Button zum Kopieren in die Zwischenablage"
+    },
+    "xXbJso": {
+      "defaultMessage": "Abmelden"
+    },
+    "zBmup+": {
+      "defaultMessage": "Neu generieren",
+      "description": "Beschriftung für den Button, mit dem die KI aufgefordert wird, eine ihrer Nachrichten neu zu generieren. Da die Nachrichtengenerierung stochastisch ist, wird die resultierende Nachricht unterschiedlich sein."
+    },
+    "zFt1cV": {
+      "defaultMessage": "Hier finden Sie Ihren API-Schlüssel.",
+      "description": "Beschriftung für den Link, der den Benutzer zur Seite auf der OpenAI-Website führt, auf der er seinen API-Schlüssel finden kann."
+    }
+  }
