@@ -185,7 +185,7 @@ export default function RecentChats(props: any) {
     const dispatch = useAppDispatch();
 
     const currentChatID = context.currentChat.chat?.id;
-    const recentChats = context.chat.searchChats('');
+    const recentChats = context.chat.all();
 
     const onClick = useCallback((e: React.MouseEvent) => {
         if (e.currentTarget.closest('button')) {
