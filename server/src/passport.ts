@@ -74,11 +74,12 @@ export function configurePassport(context: ChatServer) {
         const hashedPassword = await bcrypt.hash(password, 12);
 
         try {
-            await context.database.createUser(username, Buffer.from(hashedPassword));
+            //await context.database.createUser(username, Buffer.from(hashedPassword));
 
-            passport.authenticate('local')(req, res, () => {
-                res.redirect('/');
-            });
+            //passport.authenticate('local')(req, res, () => {
+            //    res.redirect('/');
+            //});
+            throw new Error('Registration not allowed!')
         } catch (err) {
             console.error(err);
             res.redirect('/?error=register');

@@ -13,7 +13,7 @@ export const uiSlice = createSlice({
             state.modal = 'login';
         },
         openSignupModal(state) {
-            state.modal = 'signup';
+            state.modal = 'login';
         },
         closeModals(state) {
             state.modal = '';
